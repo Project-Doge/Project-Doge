@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ello!
+I am human yes
 
-<!--
-**Project-Doge/Project-Doge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Public Statistics
 
-Here are some ideas to get you started:
+| ![Statistics](https://github-readme-stats.vercel.app/api?username=project-doge&count_private=true&theme=radical) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=project-doge&theme=radical) |
+| - | - |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Launguages I dabble in.
+![Lua](https://img.shields.io/badge/Lua-000080?logo=Lua&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=Astro&logoColor=white&style=for-the-badge)
+
+
+## Contacts:
+- Discord: project_doge
+- Email: samuel@astral-services.net
