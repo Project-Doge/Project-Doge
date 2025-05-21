@@ -3,7 +3,7 @@ I am human yes
 
 ## Public Statistics
 
-| ![Statistics](https://github-readme-stats.vercel.app/api?username=project-doge&count_private=true&theme=radical) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=project-doge&theme=radical) |
+| ![Statistics](https://github-readme-stats-pink-eight-10.vercel.app/api?username=project-doge&count_private=true&theme=radical) | ![Most used languages](https://github-readme-stats-pink-eight-10.vercel.app/api/top-langs/?username=project-doge&theme=radical) |
 | - | - |
 
 ### Launguages I dabble in.
