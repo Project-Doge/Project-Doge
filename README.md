@@ -7,7 +7,7 @@ I am human yes
 | - | - |
 
 ### Launguages I dabble in.
-![Lua](https://img.shields.io/badge/Lua-000080?logo=Lua&logoColor=white&style=for-the-badge)
+![Lua](https://img.shields.io/badge/LuaU-000080?logo=Lua&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=Astro&logoColor=white&style=for-the-badge)
 
